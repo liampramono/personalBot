@@ -4,8 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "pramono",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^1.18.3",
+    "twilio": "^3.19.1"
+  }
 }
