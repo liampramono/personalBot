@@ -1,0 +1,5 @@
+config/default.json
+node_modules/*
+test/unit/report/*
+test/unit/coverage/*
+test/e2e/report/*
